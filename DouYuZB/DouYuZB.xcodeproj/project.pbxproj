@@ -99,7 +99,7 @@
 		FB8F61872350727700E65263 /* DouYuZB */ = {
 			isa = PBXGroup;
 			children = (
-				FB8F61BB2351687E00E65263 /* Classes */,
+				FB8F61C223516AFB00E65263 /* Classes */,
 				FB8F61882350727700E65263 /* AppDelegate.swift */,
 				FB8F618A2350727700E65263 /* SceneDelegate.swift */,
 				FB8F618E2350727700E65263 /* Main.storyboard */,
@@ -129,55 +129,55 @@
 			path = DouYuZBUITests;
 			sourceTree = "<group>";
 		};
-		FB8F61BB2351687E00E65263 /* Classes */ = {
+		FB8F61C223516AFB00E65263 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				FB8F61C12351687E00E65263 /* Main */,
-				FB8F61BC2351687E00E65263 /* Home */,
-				FB8F61C02351687E00E65263 /* Live */,
-				FB8F61BE2351687E00E65263 /* Follow */,
-				FB8F61BF2351687E00E65263 /* Profile */,
-				FB8F61BD2351687E00E65263 /* Tools */,
+				FB8F61C823516AFB00E65263 /* Main */,
+				FB8F61C323516AFB00E65263 /* Home */,
+				FB8F61C723516AFB00E65263 /* Live */,
+				FB8F61C523516AFB00E65263 /* Follow */,
+				FB8F61C623516AFB00E65263 /* Profile */,
+				FB8F61C423516AFB00E65263 /* Tools */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
 		};
-		FB8F61BC2351687E00E65263 /* Home */ = {
+		FB8F61C323516AFB00E65263 /* Home */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Home;
 			sourceTree = "<group>";
 		};
-		FB8F61BD2351687E00E65263 /* Tools */ = {
+		FB8F61C423516AFB00E65263 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Tools;
 			sourceTree = "<group>";
 		};
-		FB8F61BE2351687E00E65263 /* Follow */ = {
+		FB8F61C523516AFB00E65263 /* Follow */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Follow;
 			sourceTree = "<group>";
 		};
-		FB8F61BF2351687E00E65263 /* Profile */ = {
+		FB8F61C623516AFB00E65263 /* Profile */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Profile;
 			sourceTree = "<group>";
 		};
-		FB8F61C02351687E00E65263 /* Live */ = {
+		FB8F61C723516AFB00E65263 /* Live */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Live;
 			sourceTree = "<group>";
 		};
-		FB8F61C12351687E00E65263 /* Main */ = {
+		FB8F61C823516AFB00E65263 /* Main */ = {
 			isa = PBXGroup;
 			children = (
 			);
